@@ -15,5 +15,5 @@ I am also involved with some student clubs and societies, specifically the [Math
 
 > :octocat: [My Personal Website and Math Blog](https://404briannotfound.tech/)
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/BrianLi009/BrianLi009/blob/master/three.gif)
 ---
