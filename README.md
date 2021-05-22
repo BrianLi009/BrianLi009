@@ -1,7 +1,7 @@
 # :man_technologist: Zhengyu (Brian) Li
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/BrianLi009)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhengyu-brian-li/)])
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://www.linkedin.com/in/zhengyu-brian-li/)
 
 ## Hello! 👋
 
