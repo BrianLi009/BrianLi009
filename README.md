@@ -5,11 +5,13 @@
 
 ## Hello! 👋
 
-Hello, my name is Brian Zhengyu Li and I am currently a student at University of Toronto Mississauga. I am pursing a Bachelor of Science degree with Mathematics specialist and statistics minor.
+Hello, my name is Brian Zhengyu Li and I am currently a 4th-year student at University of Toronto Mississauga. I am pursing a Bachelor of Science degree with Mathematics specialist and statistics minor.
 
-I am passionate in finding real-life applications for theoretical mathematical ideas. Most abstract mathematical ideas do not have applicability, which is why I have a passion in discovering what can be accomplished. Mathematics is a powerful tool for me. I find it very exciting being able to apply mathematics and impact our society. In short, I do not believe in the clear boundry between pure Math and applied Math.
+My research interest mostly lies in many branches of discrete mathematics. I am currently learning more about problem-solving approachs in symbolic computation and their application in pure Math problems. Additive combinatorics also seems super fun and fascinating!
 
-I am sufficient in Python, Java, JavaScript, R, MATLAB and have sufficient experiences in both academics and project implementation.
+I co-founded and am currently working on a startup! It's hard to allocate time in the middle of a semester, but we hope to launch the product right after summer 2021.
+
+I am proficient in Python, Java, JavaScript, R, MATLAB and have gained much experiences in both academics and project implementation.
 
 I am also involved with some student clubs and societies, specifically the [Mathematical and Computational Sciences Society (MCSS)](https://utmmcss.com/) and [UTM Society for Algorithmic Modelling (UTMSAM)](http://utmsam.sa.utoronto.ca/). I co-founded UTMSAM back in 2019 and this club means a lot to me.
 
