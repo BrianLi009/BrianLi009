@@ -1,8 +1,8 @@
-# :man_technologist: Brian Zhengyu Li
+#Brian Li
 
-## Hello! 👋
+## Hello!
 
-My name is Brian Zhengyu Li and I am a graduate student in the Faculty of Mathematics at the University of Waterloo.
+My name is Brian Li and I am a graduate student in the Faculty of Mathematics at the University of Waterloo.
 
 My research is in the intersection of quantum algorithms and automated reasoning. 
 
