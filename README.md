@@ -2,9 +2,9 @@
 
 ## Hello!
 
-My name is Brian Li and I am a graduate student in the Faculty of Mathematics at the University of Waterloo.
+My name is Brian Li and I am a Computer Science PhD student at the Georgia Institute of Technology.
 
-My research is in the intersection of quantum algorithms and automated reasoning. 
+My research is in the intersection of intelligent systems and logics.
 
 > :octocat: [My Personal Website and Math Blog](https://404briannotfound.tech/)
 
